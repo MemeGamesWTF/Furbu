@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-JohnnyVerse-1.0";
 const contentToCache = [
-    "Build/54bb7a38eee097c20cd73e7a44d2ac4f.loader.js",
+    "Build/43fb6d635cfd66311e1e8e845acebd27.loader.js",
     "Build/37e945ff90f1545a6e844458b1fc3945.framework.js",
-    "Build/c7eda2ef9c33094c268af1139e6e50a0.data",
-    "Build/e18a8d959d89550be893b98b94d40fc7.wasm",
+    "Build/1ecc6959e0f1eb496e127a5fcd8601c2.data",
+    "Build/c1b0ca2936bd9de2575935c57e0e2268.wasm",
     "TemplateData/style.css"
 
 ];
